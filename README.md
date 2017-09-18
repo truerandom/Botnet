@@ -1,2 +1,2 @@
-# botnet
-botnet
+# Botnet
+######Java IRC Botnet
